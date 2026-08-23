@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-huggingface
+llama-index-vector-stores-qdrant
+qdrant-client
+pytest
+httpx
