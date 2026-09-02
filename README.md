@@ -45,5 +45,6 @@ Welcome to my portfolio repository. This ecosystem demonstrates production-grade
 I specialize in bridging the gap between cutting-edge LLM capabilities and reliable backend engineering. Open for remote contracts, startup roles, and architectural consultations.
 
 *   **GitHub:** [igorslash](https://github.com)
-*   **Email:** `<ваш_email@example.com>`
-*   **LinkedIn:** `<ссылка_на_ваш_linkedin>`
+*   **Email:** `igor0111847@gmail.com`
+*   **Telegram** 'IgorSr11'
+*   **LinkedIn:** ``
