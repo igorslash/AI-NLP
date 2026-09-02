@@ -47,4 +47,4 @@ I specialize in bridging the gap between cutting-edge LLM capabilities and relia
 *   **GitHub:** [igorslash](https://github.com)
 *   **Email:** `igor0111847@gmail.com`
 *   **Telegram** 'IgorSr11'
-*   **LinkedIn:** ``
+
