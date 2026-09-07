@@ -1,0 +1,4 @@
+pip install tavily-python llama-index llama-index-tools-tavily-research llama-index-llms-openai
+
+export TAVILY_API_KEY="tvly ключ"
+export OPENAI_API_KEY="skключ"

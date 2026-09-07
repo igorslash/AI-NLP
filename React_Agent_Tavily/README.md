@@ -1,0 +1,1 @@
+research-агент на LlamaIndex с интеграцией Tavily Research Tool. Агент выполняет advanced search, извлекает контент из топ-источников и генерирует структурированный отчёт. Использовал ReActAgent с max_iterations для контроля стоимости и verbose для отладки.
