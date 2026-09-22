@@ -1,0 +1,17 @@
+﻿Задача,Решение в Lightning
+
+Структура модели,LightningModule: training_step", "validation_step", "configure_optimizers
+
+Управление данными,LightningDataModule: prepare_data" (скачать), "setup" (создать), "*_dataloader
+
+Автоматическое обучение,"trainer.fit(model, datamodule)" вместо ручных циклов
+
+Ранняя остановка,"EarlyStopping(monitor='val_loss', patience=3)"
+
+Сохранение лучшей модели,"ModelCheckpoint(monitor='val_loss', save_top_k=1)"
+
+Визуализация,"self.log('metric', value)" + tensorboard --logdir lightning_logs/
+
+Multi-GPU,"trainer = pl.Trainer(accelerator='gpu', devices=4)"
+
+Быстрая отладка,fast_dev_run=True или limit_train_batches=10

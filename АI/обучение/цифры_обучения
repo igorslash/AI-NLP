@@ -1,0 +1,12 @@
+
+Метрика	Простыми словами	Норма
+Loss	Ошибка модели	Чем меньше, тем лучше
+Accuracy	Сколько угадал из 100	> 0.8
+Precision	Когда сказал "да" — как часто был прав	> 0.8
+Recall	Сколько настоящих "да" нашел	> 0.8
+F1	Баланс precision и recall	> 0.8
+
+Train ↓, Val ↑ = Overfitting (надо Dropout).
+Train ≈ Val (высокие) = Underfitting (надо модель больше).
+Weight Decay = Штраф за сложность (не трогать Bias и LayerNorm).
+Learning Rate = Скорость шага (Warmup — чтобы не споткнуться в начале)
